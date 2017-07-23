@@ -1,5 +1,6 @@
 body {
-	background-color: olive;
+	background-color: olive
+	margin: 0 auto;
 }
 
 h1, p {
