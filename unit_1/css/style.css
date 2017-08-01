@@ -4,7 +4,7 @@ body {
 
 }
 
-h1, p {
+h1, h2 {
 	color: black;
-	font-family: helvetica;
+	font-family: flood;
 }
