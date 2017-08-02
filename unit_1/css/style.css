@@ -6,12 +6,12 @@ body {
 }
 h1 {
 	font-weight: bold;
-	
+
 }
 h1, h3 {
 	color: black;
 	font-family: Helvetica;
 }
 hr {
-	width: 40px;
+	width: 100px;
 }
