@@ -4,7 +4,7 @@ body {
     font-family: "Courier New", monospace;
 
 }
-h1 {
+h1, h3 {
 	background-image: url("http://i.imgur.com/GqWMJQm.jpg");
 	font-weight: 800;
 
