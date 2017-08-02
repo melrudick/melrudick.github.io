@@ -1,14 +1,13 @@
 body {
 	background-color: #3CBF48;
 	color: black;
-
+    font-family: Helvetica;
 
 }
 h1 {
 	font-weight: bold;
 
 }
-h1, h3 {
-	color: black;
-	font-family: Helvetica;
-}
+
+	
+
