@@ -8,3 +8,7 @@ h1, h3 {
 	color: black;
 	font-family: Helvetica;
 }
+hr {
+	color: black;
+	width: 40px;
+}
