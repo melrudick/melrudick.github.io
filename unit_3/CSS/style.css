@@ -5,6 +5,9 @@ body {
     background-image: url("http://i.imgur.com/GqWMJQm.jpg");
 
 }
+p {
+	text-align: center;
+}
 
 
 /*h1, h3 {
