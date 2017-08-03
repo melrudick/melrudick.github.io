@@ -1,18 +1,32 @@
+* {margin:0;padding:0;box-sizing:border-box;}
+img { width:300px;}
 body {
 	background-color: #000;
 	color: #fff;
-    font-family: "Courier New", monospace;
-    background-image: url("http://i.imgur.com/GqWMJQm.jpg");
-
+	font-family: "Courier New", monospace;
 }
-p {
-	text-align: center;
+section {
+	padding: 5em 0;
 }
-
-
-/*h1, h3 {
-	background-image: url("http://i.imgur.com/GqWMJQm.jpg");
-	font-weight: 800;
-	color: #fff;*/
-
+h1 {
+	font-size: 200%;
+}
+#intro {
+	background:url("http://i.imgur.com/GqWMJQm.jpg");
+	background-size: cover;
+	padding: 05em 0 0;
+	height: 100vh;
+}
+/* floats will be covered in unit 6 */
+.logo {
+    float: left;
+}
+nav {
+    float: right;
+    color: #fff;
+    text-decoration: none;
+}
+a {
+	color: #fff
+	text-decoration none;
 }
