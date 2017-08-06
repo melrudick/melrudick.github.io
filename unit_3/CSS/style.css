@@ -11,12 +11,17 @@ section {
 h1 {
 	font-size: 200%;
 }
+
 #intro {
 	background:url("http://i.imgur.com/GqWMJQm.jpg");
 	background-size: cover;
 	padding: 05em 0 0;
 	height: 100vh;
 }
+#cta {
+	color: #FF4DD5;
+}
+
 /* floats will be covered in unit 6 */
 .logo {
     float: left;
@@ -26,7 +31,7 @@ nav {
     color: #fff;
     text-decoration: none;
 }
-a {
-	color: #fff
-	text-decoration none;
+nav a {
+	color: #fff;
+	text-decoration: none;
 }
