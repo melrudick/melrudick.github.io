@@ -78,9 +78,9 @@ nav a {
 	text-decoration: none;
 	font-weight: bold;
 }
-footer {
+/*footer {
 	font-size: 2em;
-}
+}*/
 
 .info {
 	display: inline-block;
@@ -112,5 +112,4 @@ footer {
 }
 .instagram-icon {
 	width: 5%;
-	padding-top: 30px;
 }
