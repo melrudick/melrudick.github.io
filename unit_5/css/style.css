@@ -68,7 +68,7 @@ nav {
     text-align: center;
     color: #000;
     text-decoration: none;
-    font-size: 1.25em;
+    font-size: 1.5em;
     letter-spacing: 1.5px;
     border: solid black;
 
@@ -85,16 +85,34 @@ nav a {
 .info {
 	display: inline-block;
 	padding-bottom: 2em;
+	vertical-align: top;
+	padding: 3em 0;
 }
 .moreinfo {
 	display: inline-block;
-	padding-bottom: 2em;
+	padding: 3em 0;
+	vertical-align: top;
+
 }
 .evenmore {
 	display: inline-block;
+	width: 50%
+	border-radius: 200px;
+	padding: 20px, 20px, 20px, 20px;
+}
+#more-text {
+	background-color: rgba(0, 0, 0, 0.3);
+	width: 50%;
+	display: inline-block;
+	border-radius: 30px;
+	padding: 20px;
+
 }
 .muchmore {
 	display: inline-block;
+	vertical-align: top;
+	padding: 3em 0;
+
 }
 #intro-text{
 	background-color: rgba(0, 0, 0, 0.2);
