@@ -96,7 +96,7 @@ nav a {
 .evenmore {
 	display: inline-block;
 	width: 50%
-	border-radius: 200px;
+	border-radius: 30px;
 	padding: 20px, 20px, 20px, 20px;
 }
 #more-text {
