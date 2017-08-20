@@ -49,14 +49,11 @@ h4 {
 #previousInterviews {
 	text-align: center;
 }
-#tripReports {
+#climbersChoice {
 	text-align: center;
 }
-hr {
-	color: #000;
-	border: none;
-	width: 600px;
-}
+
+
 p {
 	min-width: 450px;
 	max-width: 650px;
@@ -87,9 +84,18 @@ footer {
 
 .info {
 	display: inline-block;
-	padding-bottom: 24px;
+	padding-bottom: 2em;
 }
-
+.moreinfo {
+	display: inline-block;
+	padding-bottom: 2em;
+}
+.evenmore {
+	display: inline-block;
+}
+.muchmore {
+	display: inline-block;
+}
 #intro-text{
 	background-color: rgba(0, 0, 0, 0.2);
 	width: 50%;
@@ -99,5 +105,12 @@ footer {
 }
 
 .facebook-icon{
+	width: 5.5%;
+}
+.email-icon {
 	width: 5%;
+}
+.instagram-icon {
+	width: 5%;
+	padding-top: 30px;
 }
